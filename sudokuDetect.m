@@ -1,6 +1,6 @@
-% File        :   main.oy (fastKLT-tracker Python Version)
+% File        :   sudokuDetect.m (Sudoku Detector)
 % Version     :   1.0.0
-% Description :   Implements Zana Zakaryaie's FAST-KLT tracker originally written in C++
+% Description :   Implements a vision-based Sudoku Detector
 % Date:       :   Apr 03, 2015
 % Author      :   Ricardo Acevedo-Avila
 % License     :   CC0 1.0 Universal
